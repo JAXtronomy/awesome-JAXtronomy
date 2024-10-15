@@ -54,6 +54,8 @@ For a broader list of JAX resources, check out the [awesome-jax](https://github.
     - Paper: [arXiv:2302.05329](https://arxiv.org/abs/2302.05329)
 - [jim](https://github.com/kazewong/jim) - Gravitational-wave data analysis tools in Jax <img src="https://img.shields.io/github/stars/kazewong/jim?style=social" align="center">
     - Papers: [arXiv:2302.05333](https://arxiv.org/abs/2302.05333), [arXiv:2404.11397](https://arxiv.org/abs/2404.11397)
+- [ringdown](https://github.com/maxisi/ringdown/tree/main) - Black hole ringdowns with JAX and numpyro <img src="https://img.shields.io/github/stars/maxisi/ringdown?style=social" align="center">
+    - Papers: [arXiv:2107.05609](https://arxiv.org/abs/2107.05609)
 
 <a name="supernovae-etc" />
 
