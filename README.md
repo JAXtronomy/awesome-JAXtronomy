@@ -44,6 +44,10 @@ For a broader list of JAX resources, check out the [awesome-jax](https://github.
 
 <a name="gravitational-waves" />
 
+## Computational Fluid Dynamics
+
+- [simple 2D fluid solver in JAX](https://github.com/pmocz/jax-euler-benchmarks) - solves the 2D Euler equations on distributed GPU systems in 300 lines of code
+
 ## Gravitational waves
 
 - [ripple](https://github.com/tedwards2412/ripple) - Differentiable Gravitational Waveforms with JAX <img src="https://img.shields.io/github/stars/tedwards2412/ripple?style=social" align="center">
