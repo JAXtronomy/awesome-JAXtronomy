@@ -26,7 +26,7 @@ For a broader list of JAX resources, check out the [awesome-jax](https://github.
 
 ## To add
 
-- [jax-euler-benchmarks](https://github.com/pmocz/jax-euler-benchmarks) - A simple JAX solver for the 2D Euler equations for benchmarking <img src="https://img.shields.io/github/stars/pmocz/jax-euler-benchmarks?style=social" align="center">
+- 
 
 <a name="useful-tools" />
 
@@ -46,7 +46,7 @@ For a broader list of JAX resources, check out the [awesome-jax](https://github.
 
 ## Computational Fluid Dynamics
 
-- [simple 2D fluid solver in JAX](https://github.com/pmocz/jax-euler-benchmarks) - solves the 2D Euler equations on distributed GPU systems in 300 lines of code
+- [simple 2D fluid solver in JAX](https://github.com/pmocz/jax-euler-benchmarks) - solves the 2D Euler equations on distributed GPU systems in 300 lines of code <img src="https://img.shields.io/github/stars/pmocz/jax-euler-benchmarks?style=social" align="center">
 
 ## Gravitational waves
 
