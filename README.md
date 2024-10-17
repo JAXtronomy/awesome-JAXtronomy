@@ -83,4 +83,4 @@ For a broader list of JAX resources, check out the [awesome-jax](https://github.
 
 <a name="optics" />
 
- - [∂Lux](https://louisdesdoigts.github.io/dLux/) — differentiable physical optical models from Louis Desdoigts et al.
+ - [∂Lux](https://louisdesdoigts.github.io/dLux/) — differentiable physical optical models from Louis Desdoigts et al. [![GitHub star count](https://img.shields.io/github/stars/louisDesdoigts/dlux?style=social)](https://github.com/louisDesdoigts/dlux)
