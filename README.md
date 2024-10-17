@@ -33,8 +33,7 @@ For a broader list of JAX resources, check out the [awesome-jax](https://github.
 
 ## Useful tools
 
-- [LINX](https://github.com/cgiovanetti/LINX) - A fast, differentiable, and extensible public BBN code <img src="https://img.shields.io/github/stars/cgiovanetti/LINX?style=social" align="center">
-    - Papers: [arXiv:2408.14538](https://arxiv.org/abs/2408.14538), [arXiv:2408.14531](https://arxiv.org/abs/2408.14531)
+- 
 
 <a name="inference" />
 
