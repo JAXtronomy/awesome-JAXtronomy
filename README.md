@@ -21,6 +21,7 @@ For a broader list of JAX resources, check out the [awesome-jax](https://github.
   - [Neutron stars](#neutron-stars)
   - [Cosmology](#cosmology)
   - [Exoplanets](#exoplanets)
+  - [Optics](#optics)
 
 <a name="to-add" />
 
@@ -79,3 +80,7 @@ For a broader list of JAX resources, check out the [awesome-jax](https://github.
 <a name="exoplanets" />
 
 ## Exoplanets
+
+<a name="optics" />
+
+ - [∂Lux](https://louisdesdoigts.github.io/dLux/) — differentiable physical optical models from Louis Desdoigts et al.
