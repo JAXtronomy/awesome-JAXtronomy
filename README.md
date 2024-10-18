@@ -20,6 +20,7 @@ For a broader list of JAX resources, check out the [awesome-jax](https://github.
   - [Supernovae, kilonovae, gamma-ray bursts,...](#supernovae-kilonovae-gamma-ray-bursts)
   - [Neutron stars](#neutron-stars)
   - [Cosmology](#cosmology)
+  - [Galactic physics](#galaxy)
   - [Exoplanets](#exoplanets)
   - [Optics](#optics)
 
@@ -75,6 +76,13 @@ For a broader list of JAX resources, check out the [awesome-jax](https://github.
 
 - [LINX](https://github.com/cgiovanetti/LINX) - A fast, differentiable, and extensible public BBN code <img src="https://img.shields.io/github/stars/cgiovanetti/LINX?style=social" align="center">
     - Papers: [arXiv:2408.14538](https://arxiv.org/abs/2408.14538), [arXiv:2408.14531](https://arxiv.org/abs/2408.14531)
+
+<a name="galaxy" />
+
+## Galactic physics
+
+- [synax](https://github.com/dkn16/Synax) - A GPU-accelerated automatic differentiable Galactic synchrotron simulation package <img src="https://img.shields.io/github/stars/dkn16/Synax?style=social" align="center">
+    - Papers: [arXiv:2410.01136](https://arxiv.org/abs/2410.01136)
 
 <a name="exoplanets" />
 
