@@ -88,6 +88,17 @@ For a broader list of JAX resources, check out the [awesome-jax](https://github.
 
 ## Exoplanets
 
+- [jaxoplanet](https://github.com/exoplanet-dev/jaxoplanet) - a
+[functional-programming](https://en.wikipedia.org/wiki/Functional_programming)-forward
+implementation of many features from the
+[exoplanet](https://docs.exoplanet.codes/en/latest/) and
+[starry](https://starry.readthedocs.io/en/latest/) packages built on top of
+[JAX](https://jax.readthedocs.io/en/latest/) <img src="https://img.shields.io/github/stars/exoplanet-dev/jaxoplanet?style=social" align="center">
+- [squishyplanet](https://github.com/ben-cassese/squishyplanet) - Tranists and phase curves of non-spherical exoplanets in JAX <img src="https://img.shields.io/github/stars/ben-cassese/squishyplanet?style=social" align="center">
+    - Paper: [arXiv:2409.00167](https://arxiv.org/abs/2409.00167)
+
 <a name="optics" />
+
+## Optics
 
  - [∂Lux](https://louisdesdoigts.github.io/dLux/) — differentiable physical optical models from Louis Desdoigts et al. [![GitHub star count](https://img.shields.io/github/stars/louisDesdoigts/dlux?style=social)](https://github.com/louisDesdoigts/dlux)
