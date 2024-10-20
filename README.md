@@ -96,7 +96,7 @@ implementation of many features from the
 [JAX](https://jax.readthedocs.io/en/latest/) <img src="https://img.shields.io/github/stars/exoplanet-dev/jaxoplanet?style=social" align="center">
 - [squishyplanet](https://github.com/ben-cassese/squishyplanet) - Tranists and phase curves of non-spherical exoplanets in JAX <img src="https://img.shields.io/github/stars/ben-cassese/squishyplanet?style=social" align="center">
     - Paper: [arXiv:2409.00167](https://arxiv.org/abs/2409.00167)
-- [ExoJAX](https://github.com/HajimeKawahara/exojax) - differentiable spectrum model from exolanet and substellar atmosphere 
+- [ExoJAX](https://github.com/HajimeKawahara/exojax) - differentiable spectrum model from exolanet and substellar atmosphere <img src="https://img.shields.io/github/stars/ben-cassese/exojax?style=social" align="center">
     - Papers: [arXiv:2105.14782](https://arxiv.org/abs/2105.14782), [arXiv:2410.06900](https://arxiv.org/abs/2410.06900)
 
 <a name="optics" />
