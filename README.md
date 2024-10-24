@@ -102,3 +102,8 @@ implementation of many features from the
 ## Optics
 
  - [∂Lux](https://louisdesdoigts.github.io/dLux/) — differentiable physical optical models from Louis Desdoigts et al. [![GitHub star count](https://img.shields.io/github/stars/louisDesdoigts/dlux?style=social)](https://github.com/louisDesdoigts/dlux)
+
+## X-rays
+
+ - [jaxspec](https://github.com/renecotyfanboy/jaxspec) — differentiable likelihoods for X-ray spectral fitting [![GitHub star count](https://img.shields.io/github/stars/renecotyfanboy/jaxspec?style=social)](https://github.com/renecotyfanboy/jaxspec)
+   - Paper : [arxiv:2409.05757](https://arxiv.org/abs/2409.05757)
