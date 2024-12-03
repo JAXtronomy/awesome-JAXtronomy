@@ -76,6 +76,8 @@ For a broader list of JAX resources, check out the [awesome-jax](https://github.
 
 - [LINX](https://github.com/cgiovanetti/LINX) - A fast, differentiable, and extensible public BBN code <img src="https://img.shields.io/github/stars/cgiovanetti/LINX?style=social" align="center">
     - Papers: [arXiv:2408.14538](https://arxiv.org/abs/2408.14538), [arXiv:2408.14531](https://arxiv.org/abs/2408.14531)
+- [candl](https://github.com/Lbalkenhol/candl) - Differentiable Likelihood for CMB Analysis <img src="https://img.shields.io/github/stars/Lbalkenhol/candl?style=social" align="center">
+    - Papers: [arXiv:2412.00826](https://arxiv.org/abs/2412.00826)
 
 <a name="galaxy" />
 
