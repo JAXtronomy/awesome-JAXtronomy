@@ -42,6 +42,8 @@ For a broader list of JAX resources, check out the [awesome-jax](https://github.
 
 - [flowMC](https://github.com/kazewong/flowMC) - Normalizing-flow enhanced sampling package for probabilistic inference in Jax. <img src="https://img.shields.io/github/stars/kazewong/flowMC?style=social" align="center">
     - Papers: [arXiv:2211.06397](https://arxiv.org/abs/2211.06397), [arXiv:2105.12603](https://arxiv.org/abs/2105.12603)
+- [BlackJAX](https://github.com/blackjax-devs/blackjax) - Library of samplers for JAX (MCMC: HMC, NUTS, MALA, etc.; SMC; SGMCMC; VI) that works on CPU as well as GPU. <img src="https://img.shields.io/github/stars/blackjax-devs/blackjax?style=social" align="center">
+    - PR: [#755](https://github.com/blackjax-devs/blackjax/pull/755) - includes nested sampling and slice sampling
 
 <a name="gravitational-waves" />
 
