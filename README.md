@@ -102,6 +102,8 @@ implementation of many features from the
     - Paper: [arXiv:2409.00167](https://arxiv.org/abs/2409.00167)
 - [ExoJAX](https://github.com/HajimeKawahara/exojax) - differentiable spectrum model from exoplanet and substellar atmosphere <img src="https://img.shields.io/github/stars/HajimeKawahara/exojax?style=social" align="center">
     - Papers: [arXiv:2105.14782](https://arxiv.org/abs/2105.14782), [arXiv:2410.06900](https://arxiv.org/abs/2410.06900)
+- [microlux](https://github.com/CoastEgo/microlux) - A differentiable microlensing model using adaptive contour integration method <img src="https://img.shields.io/github/stars/CoastEgo/microlux?style=social" align="center">
+    - Paper: [arXiv:2501.07268](https://arxiv.org/abs/2501.07268)
 
 <a name="optics" />
 
