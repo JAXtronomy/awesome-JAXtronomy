@@ -49,6 +49,7 @@ For a broader list of JAX resources, check out the [awesome-jax](https://github.
 
 ## Computational Fluid Dynamics
 
+- [astronomix](https://github.com/leo1200/astronomix) - differentiable (magneto)hydrodynamics for astrophysics in JAX <img src="https://img.shields.io/github/stars/leo1200/astronomix?style=social" align="center">
 - [simple 2D fluid solver in JAX](https://github.com/pmocz/jax-euler-benchmarks) - solves the 2D Euler equations on distributed GPU systems in 300 lines of code <img src="https://img.shields.io/github/stars/pmocz/jax-euler-benchmarks?style=social" align="center">
 
 ## Gravitational waves
