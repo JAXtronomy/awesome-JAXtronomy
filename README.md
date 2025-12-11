@@ -66,6 +66,8 @@ For a broader list of JAX resources, check out the [awesome-jax](https://github.
 ## Supernovae, kilonovae, gamma-ray bursts,...
 
 - [fiesta](https://github.com/ThibeauWouters/fiesta) - Fast inference of electromagnetic signals and transients with JAX <img src="https://img.shields.io/github/stars/ThibeauWouters/fiesta?style=social" align="center">
+- [JAX-bandflux](https://github.com/samleeney/JAX-bandflux) - Differentiable supernova light curve fitting with JAX <img src="https://img.shields.io/github/stars/samleeney/JAX-bandflux?style=social" align="center">
+    - Paper: [arXiv:2504.08081](https://arxiv.org/abs/2504.08081)
 
 <a name="neutron-stars" />
 
