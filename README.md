@@ -16,13 +16,16 @@ For a broader list of JAX resources, check out the [awesome-jax](https://github.
   - [To add](#to-add)
   - [Useful tools](#useful-tools)
   - [Inference](#inference)
+  - [Computational Fluid Dynamics](#computational-fluid-dynamics)
   - [Gravitational waves](#gravitational-waves)
   - [Supernovae, kilonovae, gamma-ray bursts,...](#supernovae-kilonovae-gamma-ray-bursts)
   - [Neutron stars](#neutron-stars)
   - [Cosmology](#cosmology)
-  - [Galactic physics](#galaxy)
+  - [Galactic physics](#galactic-physics)
   - [Exoplanets](#exoplanets)
   - [Optics](#optics)
+  - [X-rays](#x-rays)
+  - [N-Body](#n-body)
 
 <a name="to-add" />
 
@@ -51,6 +54,8 @@ For a broader list of JAX resources, check out the [awesome-jax](https://github.
 
 - [astronomix](https://github.com/leo1200/astronomix) - differentiable (magneto)hydrodynamics for astrophysics in JAX <img src="https://img.shields.io/github/stars/leo1200/astronomix?style=social" align="center">
 - [simple 2D fluid solver in JAX](https://github.com/pmocz/jax-euler-benchmarks) - solves the 2D Euler equations on distributed GPU systems in 300 lines of code <img src="https://img.shields.io/github/stars/pmocz/jax-euler-benchmarks?style=social" align="center">
+
+<a name="gravitational-waves" />
 
 ## Gravitational waves
 
@@ -114,7 +119,15 @@ implementation of many features from the
 
  - [∂Lux](https://louisdesdoigts.github.io/dLux/) — differentiable physical optical models from Louis Desdoigts et al. [![GitHub star count](https://img.shields.io/github/stars/louisDesdoigts/dlux?style=social)](https://github.com/louisDesdoigts/dlux)
 
+<a name="X-rays" />
+
 ## X-rays
 
  - [jaxspec](https://github.com/renecotyfanboy/jaxspec) — differentiable likelihoods for X-ray spectral fitting [![GitHub star count](https://img.shields.io/github/stars/renecotyfanboy/jaxspec?style=social)](https://github.com/renecotyfanboy/jaxspec)
    - Paper : [arxiv:2409.05757](https://arxiv.org/abs/2409.05757)
+
+<a name="N-Body" />
+
+## N-Body
+ - [jorbit](https://github.com/ben-cassese/jorbit) — solar system orbits/ephemerides with some support for general N-body sims with IAS15 [![GitHub star count](https://img.shields.io/github/stars/ben-cassese/jorbit?style=social)](https://github.com/ben-cassese/jorbit)
+   - Paper : [arxiv:2509.19549](https://arxiv.org/abs/2509.19549)
