@@ -88,6 +88,7 @@ For a broader list of JAX resources, check out the [awesome-jax](https://github.
     - Papers: [arXiv:2408.14538](https://arxiv.org/abs/2408.14538), [arXiv:2408.14531](https://arxiv.org/abs/2408.14531)
 - [candl](https://github.com/Lbalkenhol/candl) - Differentiable Likelihood for CMB Analysis <img src="https://img.shields.io/github/stars/Lbalkenhol/candl?style=social" align="center">
     - Papers: [arXiv:2412.00826](https://arxiv.org/abs/2412.00826)
+- [ABCMB](https://github.com/TonyZhou729/ABCMB) - Differentiable Einstein-Boltzmann solver for the CMB power spectrum <img src="https://img.shields.io/github/stars/TonyZhou729/ABCMB?style=social" align="center">
 
 <a name="galaxy" />
 
