@@ -114,6 +114,9 @@ implementation of many features from the
 - [microlux](https://github.com/CoastEgo/microlux) - A differentiable microlensing model using adaptive contour integration method <img src="https://img.shields.io/github/stars/CoastEgo/microlux?style=social" align="center">
     - Paper: [arXiv:2501.07268](https://arxiv.org/abs/2501.07268)
 
+-  [jnkepler](https://github.com/kemasuda/jnkepler) - Differentiable N-body modeling for transit timing variations, photodynamics, and radial velocities in JAX <img src="https://img.shields.io/github/stars/kemasuda/jnkepler?style=social" align="center">
+  - Paper: [arXiv:2410.01625](https://arxiv.org/abs/2410.01625)
+
 <a name="optics" />
 
 ## Optics
