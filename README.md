@@ -37,7 +37,7 @@ For a broader list of JAX resources, check out the [awesome-jax](https://github.
 
 ## Useful tools
 
-- 
+- [astroemu](https://github.com/htjb/astroemu) - Generalized framework for emulation of spectral data based on the tiling approach in [globalemu](https://arxiv.org/abs/2104.04336).
 
 <a name="inference" />
 
